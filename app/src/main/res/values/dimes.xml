@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="card_size">140dp</dimen>
+    <dimen name="card_size_small">140dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="space_xl">68dp</dimen>
+    <dimen name="space_l">24dp</dimen>
+    <dimen name="space_m">12dp</dimen>
+    <dimen name="space_s">8dp</dimen>
+    <dimen name="text_xl">32sp</dimen>
+    <dimen name="text_l">28sp</dimen>
+    <dimen name="text_m">18sp</dimen>
+    <dimen name="text_s">16sp</dimen>
+    <dimen name="card_inner_padding">16dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blueUnderW">#C3E7FA</color>
+    <color name="purplePrimary">#7A00FF</color>
+    <color name="yellowAccent">#FFC300</color>
+    <color name="grayLight">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <!-- Custom colors for switch track (optional, for clarity) -->
+    <color name="switchTrackChecked">#E3B6FF</color>
+    <color name="switchTrackUnchecked">#D1D2D3</color>
+</resources>

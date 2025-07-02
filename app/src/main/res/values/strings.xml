@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="_170">170</string>
+    <string name="cm">cm</string>
+    <string name="start_calculating">Start Calculating</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="_55">55</string>
+    <string name="todo">TODO</string>
+    <string name="age">Age</string>
+    <string name="_20">20</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="gender">Gender</string>
+    <string name="your_bmi_category_is">YOUR BMI CATEGORY IS</string>
+    <string name="recalculate">RECALCULATE</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+    <string name="bmi_logo_description">logo_description</string>
+    <string name="welcome_to_bmi_calculator">Welcome To BMI Calculator!</string>
+    <string name="description_goes_here">Description goes here</string>
+    <string name="health_advice_will_appear_here">Health advice will appear here</string>
+    <string name="share_result">Share Result</string>
+    <string name="bmi_info">BMI Info</string>
+    <string name="units">Units:</string>
+    <string name="kg_cm_lbs_in">kg/cm | lbs/in</string>
+    <string name="kg">kg</string>
+    <string name="bmi_body_mass_index_is_a_measure_of_body_fat_based_on_height_and_weight_it_helps_assess_if_you_are_in_a_healthy_weight_range_note_bmi_does_not_account_for_muscle_mass_and_other_factors">BMI (Body Mass Index) is a measure of body fat based on height and weight. It helps assess if you are in a healthy weight range. Note: BMI does not account for muscle mass and other factors.</string>
+    <string name="what_is_bmi">What is BMI?</string>
+</resources>
