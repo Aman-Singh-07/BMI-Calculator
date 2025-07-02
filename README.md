@@ -51,4 +51,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions, reach out to [Aman Singh](amansingh17112004@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/aman-singh-3a4a06327/).
+For any questions, reach out to [Aman Singh](mailto:amansingh17112004@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/aman-singh-3a4a06327/).
